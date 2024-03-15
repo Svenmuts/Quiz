@@ -2,7 +2,7 @@ const questions = [
     {
         question: "Wat is een closure in JavaScript?",
         answers: [
-            { text: "Een object dat een functie is", correct: false },
+            { text: "Een object dat een functie is.", correct: false },
             { text: "Een lus die wordt gebruikt om een taak te herhalen totdat aan een bepaalde voorwaarde is voldaan.", correct: false },
             { text: "Een JavaScript-functie die een andere functie aanroept.", correct: false },
             { text: "Een combinatie van een functie en de omvang waarin deze is gedefinieerd, waardoor de functie toegang heeft tot variabelen in die omvang, zelfs nadat de omvang is gesloten.", correct: true }
